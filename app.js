@@ -1,14 +1,14 @@
-// import * as THREE from '../../libs/three/three.module.js';
-// import { VRButton } from '../../libs/VRButton.js';
-// import { XRControllerModelFactory } from '../../libs/three/jsm/XRControllerModelFactory.js';
-// import { Stats } from '../../libs/stats.module.js';
-// import { OrbitControls } from '../../libs/three/jsm/OrbitControls.js';
+import * as THREE from './three.module.js';
+import { VRButton } from './VRButton.js';
+import { XRControllerModelFactory } from './XRControllerModelFactory.js';
+import { Stats } from './stats.module.js';
+import { OrbitControls } from './OrbitControls.js';
 
-import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.min.js';
-import { VRButton } from 'https://threejs.org/examples/jsm/webxr/VRButton.js';
-import { XRControllerModelFactory } from 'https://threejs.org/examples/jsm/webxr/XRControllerModelFactory.js';
-import { Stats } from 'https://cdnjs.cloudflare.com/ajax/libs/stats.js/r17/Stats.min.js';
-import { OrbitControls } from 'https://threejs.org/examples/jsm/controls/OrbitControls.js';
+// import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.min.js';
+// import { VRButton } from 'https://threejs.org/examples/jsm/webxr/VRButton.js';
+// import { XRControllerModelFactory } from 'https://threejs.org/examples/jsm/webxr/XRControllerModelFactory.js';
+// import { Stats } from 'https://cdnjs.cloudflare.com/ajax/libs/stats.js/r17/Stats.min.js';
+// import { OrbitControls } from 'https://threejs.org/examples/jsm/controls/OrbitControls.js';
 
 
 
